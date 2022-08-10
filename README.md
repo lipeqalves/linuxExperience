@@ -350,3 +350,6 @@
     - use Pessoas (usar o banco de dados pessoas)
     - create table Nomes(PessoasID int, Nome varchar(50), Sobrenome varchar(50));
     - exit (sair do mysql)
+
+
+[⬆ Voltar ao Topo](#aqui-contém-todos-os-comandos-utilizados-no-bootcamp-linux-experience-pela-digital-innovation-one)
